@@ -1,0 +1,10 @@
+
+- Basic Parsing: Ensure your API analysis engine can handle paths, operations (GET, POST), and simple response schemas.
+- Data Types: Test correct mapping of OpenAPI types to TypeScript (string, number, date).
+- Enums: Verify that enums get converted to appropriate TypeScript representations.
+- Relationships (If Supported): If your tool infers relationships, add more endpoints to test this.
+- Error Cases:
+        Malformed Spec: Modify the spec to test error handling.
+        Invalid bookId types
+- React/Vue Scaffolding: Generate CRUD components and write tests to ensure they map to API endpoints and display data.
+

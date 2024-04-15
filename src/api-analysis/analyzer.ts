@@ -10,6 +10,6 @@ async function parseOpenAPISpec(file: string) {
      }
 }
 
-export { parseOpenAPISpec };
+export default { parseOpenAPISpec };
 
 
