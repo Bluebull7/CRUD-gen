@@ -1,0 +1,33 @@
+{
+  "name": "crud-gen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@testing-library/react": "^15.0.2",
+    "@types/node": "^20.12.7",
+    "@types/react": "^18.2.78",
+    "@types/react-dom": "^18.2.25",
+    "inversify": "^6.0.2",
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "@types/jest": "^29.5.12",
+    "axios": "^1.6.8",
+    "path": "^0.12.7",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "redux": "^5.0.1",
+    "swagger-parser": "^10.0.3",
+    "tsc": "^2.0.4",
+    "typescript": "^5.4.5",
+    "vue": "^3.4.22",
+    "vuex": "^4.1.0"
+  }
+}
